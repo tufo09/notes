@@ -6,3 +6,4 @@
 
 ##### general
 - script to autoupdate, push to github, stuff like that on custom command -> if i stop for the day
+- add display-brightness script to volumecontrol -> rename to control?
