@@ -19,3 +19,11 @@
    - selfhosted, cross platform
    - at first -> just photos? then all files?
    - encrypted?
+
+
+- fahhradwasauchimmmer
+   - licht
+   - lautsprecher?
+   - strom
+   - funk?
+   - kommunikation
